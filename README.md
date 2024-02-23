@@ -14,3 +14,8 @@ The Job Search Tool is a Python program with a GUI that allows users to search f
    git clone https://github.com/your-username/job-search-tool.git
    cd job-search-tool
    pip install -r requirements.txt
+## Dependencies
+- Python 3.x
+- BeautifulSoup4
+- Tkinter
+- requests
